@@ -1,0 +1,63 @@
+header{
+background-color: rgb(53, 53, 53);
+color: rgb(185, 185, 185);
+text-align: left;
+font-size:12px;
+background-size: 40%;
+background-position: center;
+background-repeat: no-repeat;
+display: flex;
+}
+body{
+    margin: 0;
+}
+
+.left{
+    width: 50%;
+}
+.right{
+    float: right;
+    margin-top: -16%;
+    
+}
+main{
+background-color: rgb(53, 53, 53);
+color: rgb(156, 156, 156);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
